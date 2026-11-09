@@ -1,0 +1,6 @@
+streamlit>=1.35
+pandas
+# اختياري: طبقة النماذج (ML)
+# sentence-transformers
+# transformers
+# torch

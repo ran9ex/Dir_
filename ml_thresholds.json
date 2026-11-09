@@ -1,0 +1,5 @@
+{
+ "knn_attack_sim": 0.963,
+ "zs_threshold": 1.01,
+ "clf_threshold": 0.017
+}
